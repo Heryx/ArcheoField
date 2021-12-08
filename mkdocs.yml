@@ -1,0 +1,12 @@
+site_name: QuantumField
+site_url: https://heryx.github.io/archeofield/
+nav:
+    - Home: index.md
+    - Steps:
+        - 'Step 1': 'step-1.md'
+    
+    - About: 
+        - 'about.md'
+
+
+theme: readthedocs
